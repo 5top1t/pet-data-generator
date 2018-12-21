@@ -9,16 +9,16 @@ You will be asked for the amount of pet-data needed to be generated, enter an in
 "Enter the count of data desires: "
 
 The result is a list in the file petdb.text of dogs in the format:
-(id, image, name, breed, age, last_visit, owner):
+(id, image, name, breed, age, owner):
 
 and the jpg files are in the images folder.  
 
 Example:
-0, dhole.jpg, Daisy, dhole, 8, 07/18/2015 08:15 AM, Roxy Lin,
-1, cockapoo.jpg, Brady, cockapoo, 8, 11/01/2010 09:58 AM, Lexi Macias,
-2, kelpie.jpg, Luna, kelpie, 5, 02/06/2012 02:25 PM, Lady Cabrera,
-3, briard.jpg, Baby, briard, 4, 07/27/2011 07:51 AM, Apollo Macias,
-4, redbone.jpg, Hunter, redbone, 7, 01/24/2015 07:21 PM, Mia Dunn,
+0, dhole.jpg, Daisy, dhole, 8, Roxy Lin,
+1, cockapoo.jpg, Brady, cockapoo, 8, Lexi Macias,
+2, kelpie.jpg, Luna, kelpie, 5, Lady Cabrera,
+3, briard.jpg, Baby, briard, 4, Apollo Macias,
+4, redbone.jpg, Hunter, redbone, 7, Mia Dunn,
 
 .
 
