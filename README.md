@@ -1,5 +1,5 @@
 # pet-data-generator
-Generate a list of pet(dogs), that includes images, with basic information.
+Generate a list of pet(dogs), that includes images, name, dob, owner, age, etc.
 
 
 Download the file and open to any python IDE.
