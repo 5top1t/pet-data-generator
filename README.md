@@ -1,14 +1,14 @@
 # pet-data-generator
-Generate a list of pet(dogs), that includes images, name, dob, owner, age, etc.
+Generate a list of pet(dogs), that includes images, name, dob, owner, age, etc.  
 
 
-Download the file and open to any python IDE.
+Download the file and open to any python IDE.  
 
-To run, type "python CollectData.py" on the command line.
-You will be asked for the amount of pet-data needed to be generated, enter an integer.
+To run, type "python CollectData.py" on the command line.  
+You will be asked for the amount of pet-data needed to be generated, enter an integer.  
 "Enter the count of data desires: "
 
-The result is a list in the file petdb.text of dogs in the format:
+The result is a list in the file petdb.text of dogs in the format:  
 (id, image, name, breed, age, owner):
 
 and the jpg files are in the images folder.  
