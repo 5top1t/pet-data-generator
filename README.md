@@ -13,7 +13,7 @@ The result is a list in the file petdb.text of dogs in the format:
 
 and the jpg files are in the images folder.  
 
-Example: 
+Example:  
 0, dhole.jpg, Daisy, dhole, 8, Roxy Lin, 
 1, cockapoo.jpg, Brady, cockapoo, 8, Lexi Macias,  
 2, kelpie.jpg, Luna, kelpie, 5, Lady Cabrera,  
